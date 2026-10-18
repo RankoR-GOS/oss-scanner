@@ -1,0 +1,4 @@
+repo: https://github.com/GrapheneOS/hardened_malloc#main
+primary_contact: security@grapheneos.org
+homepage: https://grapheneos.org
+disabled: false
